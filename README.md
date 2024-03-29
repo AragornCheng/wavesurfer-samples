@@ -1,2 +1,2 @@
 # wavesurfer-samples
-Simple based on wavesurfer.js
+simple based on wavesurfer.js
